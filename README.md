@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm This is Myeongseon Yu.</h1>
+<h1 align="center">Hi 👋, This is Myeongseon Yu.</h1>
 <h3 align="center">My dream is to become a security expert!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audtjs0101&label=Profile%20views&color=0e75b6&style=flat" alt="audtjs0101" /> </p>
